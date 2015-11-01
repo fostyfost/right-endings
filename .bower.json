@@ -1,0 +1,27 @@
+{
+  "name": "right-endings",
+  "main": "src/right-endings.js",
+  "version": "v0.0.1",
+  "homepage": "https://github.com/nifus/right-endings",
+  "authors": [
+    "Alexander Bunzya <a.bunzya@gmail.com>"
+  ],
+  "description": "The Directive displays the ending for plural words based on the number and array of endings.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularjs",
+    "angular",
+    "plural",
+    "endings",
+    "splelling",
+    "Russian language"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ],
+  "devDependencies": {
+    "angular": "~1.2.25"
+  }
+}
