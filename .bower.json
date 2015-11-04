@@ -1,7 +1,6 @@
 {
   "name": "right-endings",
   "main": "src/right-endings.js",
-  "version": "v0.0.1",
   "homepage": "https://github.com/nifus/right-endings",
   "authors": [
     "Alexander Bunzya <a.bunzya@gmail.com>"
@@ -19,9 +18,18 @@
     "Russian language"
   ],
   "license": "MIT",
-  "ignore": [
-  ],
+  "ignore": [],
   "devDependencies": {
     "angular": "~1.2.25"
-  }
+  },
+  "_release": "22e2cd65ec",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "22e2cd65ecf501a98330eb267ce9dd5f8a55c82e"
+  },
+  "_source": "git://github.com/nifus/right-endings.git",
+  "_target": "*",
+  "_originalSource": "right-endings",
+  "_direct": true
 }
