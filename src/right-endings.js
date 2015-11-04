@@ -1,7 +1,7 @@
 (function (angular) {
     'use strict';
 
-    angular.module('right-endings', []).directive('right-endings', rightEndingsDirective);
+    angular.module('right-endings', []).directive('rightEndings', rightEndingsDirective);
 
     function rightEndingsDirective(){
         return {
